@@ -53,8 +53,8 @@ I also use AI tools as part of my workflow for learning unfamiliar topics, revie
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikonino867-beep&show_icons=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikonino867-beep&layout=compact&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TeguhMarcelio&show_icons=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeguhMarcelio&layout=compact&theme=transparent" height="165"/>
 </p>
 
 ---
